@@ -1,6 +1,6 @@
 # Ayush Kakkar
 
-Builder. 17, Gurugram. Co-founder at [Workfloor AI](https://www.workfloorai.com), technical lead at [AceCard](https://buy.theacecard.co), first year of Data Science & AI at Masters' Union.
+Builder. 18, Gurugram. Co-founder at [Workfloor AI](https://www.workfloorai.com), first year of Data Science & AI at Masters' Union.
 
 I build systems for businesses that still run on paper: ERPs that take orders on WhatsApp and push invoices to Tally, AI receptionists, workflow agents. Lately, cameras on factory lines and bus doors. Shipping since I was twelve.
 
